@@ -18,4 +18,4 @@ The cloud service map ([PDF available](http://aka.ms/awsazureguide) for download
 12. Developer tools – Developer tools empower you to quickly build, debug, deploy, diagnose, and manage multi-platform, scalable apps and services.
 13. Enterprise integration – Enterprise integration makes it easier to build and manage B2B workflows that integrate with third-party software-as-a-service apps, on-premises apps, and custom apps.
 
-by [Michael Crump](https://twitter.com/mbcrump]
+by [Michael Crump](https://twitter.com/mbcrump)
