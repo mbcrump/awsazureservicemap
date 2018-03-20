@@ -18,6 +18,21 @@ The cloud service map ([PDF available](http://aka.ms/awsazureguide) for download
 12. [Developer tools](/section/devtools.md) – Developer tools empower you to quickly build, debug, deploy, diagnose, and manage multi-platform, scalable apps and services.
 13. [Enterprise integration](/section/enterpriseintegration.md) – Enterprise integration makes it easier to build and manage B2B workflows that integrate with third-party software-as-a-service apps, on-premises apps, and custom apps.
 
+Esri welcomes contributions to our [open source projects on Github](http://esri.github.io/).
+
+Contributing
+------------
+
+Maintaining this is a lot of work. If you feel something is in need of an update, etc. then please follow the "fork-and-pull" Git workflow in order for me to incorporate your changes.
+
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. Submit a **Pull request** so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
 # Author
 
 [Michael Crump](https://twitter.com/mbcrump)
