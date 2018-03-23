@@ -18,8 +18,6 @@ The cloud service map ([PDF available](http://aka.ms/awsazureguide) for download
 12. [Developer tools](/section/devtools.md) – Developer tools empower you to quickly build, debug, deploy, diagnose, and manage multi-platform, scalable apps and services.
 13. [Enterprise integration](/section/enterpriseintegration.md) – Enterprise integration makes it easier to build and manage B2B workflows that integrate with third-party software-as-a-service apps, on-premises apps, and custom apps.
 
-Esri welcomes contributions to our [open source projects on Github](http://esri.github.io/).
-
 Contributing
 ------------
 
